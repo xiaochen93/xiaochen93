@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T16:16:37.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="SM48pAtSgV7UZNoemSy3" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T16:17:40.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="OdOiBEPe4ggWR2KbkN5H" version="15.4.3" type="github">
   <diagram id="IsVj5BEXRurGvoC1gjGO" name="Page-1">
     <mxGraphModel dx="2071" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="LqwyCylziGcPe5wlssBc-27" value="Marco &amp;amp; Micro&lt;br&gt;Scores" style="html=1;fontSize=18;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1920" y="530" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LqwyCylziGcPe5wlssBc-28" value="&amp;lt;random sampling&lt;br&gt;from scores distribution&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1550" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LqwyCylziGcPe5wlssBc-29" value="&amp;lt;include&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2055" y="475" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
