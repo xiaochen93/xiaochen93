@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T06:56:20.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="61twdCf-gAv52xEbcAml" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T06:56:25.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="H7xW3VOlchXXRrhynkPX" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1888" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -158,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLFhRpxJglFCo0WGlOcY-61" value="channel_id&lt;br&gt;&amp;lt;FK&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="RLFhRpxJglFCo0WGlOcY-61" value="channel_id&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;lt;FK&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-120" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RLFhRpxJglFCo0WGlOcY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=14;startArrow=none;startFill=0;endArrow=none;endFill=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" source="RLFhRpxJglFCo0WGlOcY-63" target="RLFhRpxJglFCo0WGlOcY-42" edge="1">
