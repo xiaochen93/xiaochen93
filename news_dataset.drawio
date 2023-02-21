@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T14:07:34.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="k7d_qVb72q_xJv7UBEuo" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T14:16:23.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YdB2jStkkB7w4lJZiZlY" version="20.8.17" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2950" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -320,6 +320,9 @@
         </mxCell>
         <mxCell id="RLFhRpxJglFCo0WGlOcY-25" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="850" y="230" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FFZbUW62L2rIKRKEod7O-62" value="Configuration: &lt;br style=&quot;font-size: 19px;&quot;&gt;MySQL Version 8.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="-120" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
