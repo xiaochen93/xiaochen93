@@ -74,13 +74,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIgqfKvu0BtrX93I6pnI-21" value="NLP Feature 1" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+        <mxCell id="RIgqfKvu0BtrX93I6pnI-21" value="Embedding" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
           <mxGeometry x="600" y="769" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RIgqfKvu0BtrX93I6pnI-22" value="&lt;div&gt;NLP Feature 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RIgqfKvu0BtrX93I6pnI-22" value="&lt;div&gt;NLP Feature 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="743" y="769" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RIgqfKvu0BtrX93I6pnI-23" value="&lt;div&gt;NLP Feature 3&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="RIgqfKvu0BtrX93I6pnI-23" value="&lt;div&gt;NLP Feature 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="890" y="769" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RIgqfKvu0BtrX93I6pnI-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
