@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="pN1XQlbYyUQTMrj6d_k9">
-    <mxGraphModel dx="3235" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1485" pageHeight="922" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1485" pageHeight="922" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RIgqfKvu0BtrX93I6pnI-29" value="Indexing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="240" width="97" height="90" as="geometry" />
+        <mxCell id="RIgqfKvu0BtrX93I6pnI-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792" y="210" width="97" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RIgqfKvu0BtrX93I6pnI-28" value="Indexing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="766" y="230" width="97" height="90" as="geometry" />
